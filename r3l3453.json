@@ -1,0 +1,6 @@
+{
+    "version_paths":  [
+        "_tpcb/tpcb.py:__version__",
+        "setup.py:version"
+    ]
+}

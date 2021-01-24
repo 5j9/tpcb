@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='tpcb',
-    version='0.1.dev0',
+    version='0.1',
     long_description=open(f'{__file__}/../README.rst', encoding='utf-8').read(),
     long_description_content_type='text/x-rst',
     description=(
